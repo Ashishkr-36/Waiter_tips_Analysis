@@ -1,1 +1,1 @@
-The Waiter's Tip Prediction Project is a machine learning-based application designed to predict tip amounts for restaurant waiters based on various factors. Leveraging historical data and advanced predictive modeling, this project aims to assist restaurant owners and managers in optimizing service quality and waiter earnings.
+
